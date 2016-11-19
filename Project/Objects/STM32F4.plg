@@ -1,0 +1,129 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+<<<<<<< HEAD
+G:\文件\2016比赛\stm32\omni_navigation - 2016_11_18\Project\STM32F4.uvproj
+Project File Date:  10/14/2016
+
+<h2>Output:</h2>
+Build target 'STM32F4'
+compiling USART3.c...
+..\User\USART3.h(57): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\led.h(11): warning:  #1295-D: Deprecated declaration Laser_Configuration - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\USART3.c(150): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(151): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(152): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(193): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=27728 RO-data=664 RW-data=332 ZI-data=2444  
+".\Objects\STM32F4.axf" - 0 Errors, 7 Warning(s).
+Build target 'STM32F4'
+compiling USART3.c...
+..\User\USART3.h(57): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\led.h(11): warning:  #1295-D: Deprecated declaration Laser_Configuration - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\USART3.c(147): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(148): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(149): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(188): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=27720 RO-data=664 RW-data=332 ZI-data=2444  
+".\Objects\STM32F4.axf" - 0 Errors, 7 Warning(s).
+Build target 'STM32F4'
+compiling USART3.c...
+..\User\USART3.h(57): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\led.h(11): warning:  #1295-D: Deprecated declaration Laser_Configuration - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\USART3.c(147): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(148): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(149): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(188): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+compiling clock.c...
+..\User\USART3.h(57): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(48): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\clock.c(40): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(111): warning:  #1-D: last line of file ends without a newline
+compiling mpu6050_i2c.c...
+linking...
+Program Size: Code=27728 RO-data=664 RW-data=332 ZI-data=2444  
+".\Objects\STM32F4.axf" - 0 Errors, 13 Warning(s).
+Build target 'STM32F4'
+compiling clock.c...
+..\User\USART3.h(57): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(48): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\clock.c(40): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(111): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=27728 RO-data=664 RW-data=332 ZI-data=2444  
+".\Objects\STM32F4.axf" - 0 Errors, 6 Warning(s).
+Build target 'STM32F4'
+compiling clock.c...
+..\User\USART3.h(57): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(48): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\clock.c(40): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(115): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=27728 RO-data=664 RW-data=332 ZI-data=2444  
+".\Objects\STM32F4.axf" - 0 Errors, 6 Warning(s).
+Build target 'STM32F4'
+compiling clock.c...
+..\User\USART3.h(57): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\Mylib\Shoot.h(43): warning:  #1-D: last line of file ends without a newline
+..\Mylib\Load_motor.h(19): warning:  #1-D: last line of file ends without a newline
+..\User\clock.c(48): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\clock.c(40): warning:  #177-D: variable "i" was declared but never referenced
+..\User\clock.c(115): warning:  #1-D: last line of file ends without a newline
+linking...
+Program Size: Code=27728 RO-data=664 RW-data=332 ZI-data=2444  
+".\Objects\STM32F4.axf" - 0 Errors, 6 Warning(s).
+Build target 'STM32F4'
+compiling USART3.c...
+..\User\USART3.h(57): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\led.h(11): warning:  #1295-D: Deprecated declaration Laser_Configuration - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\USART3.c(147): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(148): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(149): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(188): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=27728 RO-data=664 RW-data=332 ZI-data=2444  
+".\Objects\STM32F4.axf" - 0 Errors, 7 Warning(s).
+Build target 'STM32F4'
+compiling USART3.c...
+..\User\USART3.h(57): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\led.h(11): warning:  #1295-D: Deprecated declaration Laser_Configuration - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\USART3.c(147): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(148): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(149): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(188): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=27728 RO-data=664 RW-data=332 ZI-data=2444  
+".\Objects\STM32F4.axf" - 0 Errors, 7 Warning(s).
+Build target 'STM32F4'
+compiling USART3.c...
+..\User\USART3.h(57): warning:  #1295-D: Deprecated declaration send_odm_msg - give arg types
+..\User\led.h(11): warning:  #1295-D: Deprecated declaration Laser_Configuration - give arg types
+..\User\main.h(21): warning:  #231-D: declaration is not visible outside of function
+..\User\USART3.c(147): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(148): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(149): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\User\USART3.c(188): warning:  #167-D: argument of type "u8 *" is incompatible with parameter of type "char *"
+linking...
+Program Size: Code=27728 RO-data=664 RW-data=332 ZI-data=2444  
+".\Objects\STM32F4.axf" - 0 Errors, 7 Warning(s).
+=======
+G:\文件\2016比赛\stm32\omni_navigation - 2016_10_5\Project\STM32F4.uvproj
+Project File Date:  10/14/2016
+
+<h2>Output:</h2>
+>>>>>>> origin/master
